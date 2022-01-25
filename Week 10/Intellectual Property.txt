@@ -1,0 +1,53 @@
+What is Intellectual Property? Explain with context of Information Technology.
+
+Intellectual Property can be defied as the legal right of an individual over a virtual property 
+i.e. intangible aspects such as a name, design, product, processing method, etc. 
+
+The main purpose of intellectual property is to ensure that the “Intellectual property” 
+i.e. product of the owner is not used without the consent of the owner.
+
+Broadly speaking, Intellectual Property acts as citizenship of a citizen; 
+if someone else than the owner uses the citizenship without the owner’s consent to do anything, 
+the case of identity theft arises and the perpetrator is punishable by law.    
+
+So, Intellectual Property is the legal protection offered 
+to the owner of the virtual assets such that others are punished for the use of the virtual assets.
+
+
+
+A good example in current scenario can be made of NFT (Non-Fungible Token) as Intellectual Property. 
+A NFT is basically an image which can be easily copied (which can be against the rule). 
+But the difference between the copied image and the actual NFT is that, 
+the actual NFT has the receipt of the ownership recorded in the block chain 
+(basically synced database of purchase and selling of the NFT over different computers (miners)). 
+
+
+
+Some types of Intellectual Property are:
+
+a)	Copyright:    For writer and artists. E.g. Books, Music, Movies, Computer Programs, Designs, etc.
+b)	Patents:      For Inventors. E.g. patent of Honda Civic (Car), Coca Cola (Drink), light bulb, etc.
+c)	Trademarks:   To distinguish similar products through different names of organizations or   
+                            Individuals. E.g. Soft drink: Coca Cola and Pepsi.
+d)	Trade Secret: To protect confidential information. E.g. Recipe of Coca Cola. 
+
+
+
+
+
+
+
+How to make it Safe?
+
+There can be several ways to safeguard the Intellectual Property but generally these two stand out:
+
+a)	Cryptograph: It is the process of ensuring safe transmission of information through complex mathematical operations. 
+		     “With traditional CPU password cracking, it can take 92 years to guess all of the iterations using uppercase, 
+                     lowercase and numbers for an 8 character password.” 
+                     This statement is good enough to put trust in cryptography to safeguard the Intellectual Property.
+
+
+b)	Digital Signature: It can fall under cryptograph as it also uses mathematical operation 
+			   to ensure the authenticity of a digital claim i.e. a digital signature. 
+			   The only difference may be that Digital Signature deals with the validity 
+                           of a person’s digital claim whereas Cryptography can validate the transfer of the process.
